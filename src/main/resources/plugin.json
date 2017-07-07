@@ -1,0 +1,6 @@
+{
+  "name": "DepthBuffer",
+  "main": "se.llbit.chunky.plugin.DepthPlugin",
+  "version": "1.0",
+  "targetVersion": "1.4.3"
+}
